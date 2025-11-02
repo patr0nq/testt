@@ -1,0 +1,8 @@
+{
+    "name": "patr0n",
+    "description": "Türkçe içerikli eklenti havuzu",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/patr0nq/testt/builds/plugins.json"
+    ]
+}
